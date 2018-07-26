@@ -1,0 +1,333 @@
+info_common:
+    salary:                 You'll love
+    salary_review:          Once a year (October)
+    probation_salary:       100% monthly salary
+    probation_time:         2 months
+    working_hour:           9am-6pm (Noon: 90 mins)
+    holiday:                Every Saturday & Sunday
+
+benifit_common:
+    insurance:              Social insurance, health insurance will be applied legall Annual company trip, weekly teambuilding activities
+    activity:               Annual company trip, weekly teambuilding activities
+    bonus_extra:            Bonus with ICO success
+    bonus_year:             13th monthly salary
+    business_trip:          Oversea business trips
+    enviroment:             Young and dynamics working environment with open working space
+
+positions:
+    # # Blockchain Lead
+    # -   job:    
+    #         department:         Information Technology
+    #         position:           Blockchain Lead
+    #         location:           Saigon, VN
+
+    #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+    #     description:
+    #         -   title:  We are seeking an experienced Blockchain Lead with high enthusiasm in developing ICO smart contract system while ensuring our fast-growing in cryptocurrency market.
+    #         -   des:    Leading, planning the work flows and teams of developers to design and develop applications in Ethereum blockchain platform
+    #         -   des:    Play in blockchain team as a leader and inspiration
+    #         -   des:    Having abilities in communication and technical documents contributions
+    #         -   des:    Be assistant of Manager Board in our business concept
+    #         -   des:    With customer-centric mindset you will have chance to work and coorporate with investors worldwide
+
+    #     requirement:
+    #         -   des:    Extensive knowledge about blockchain technology with Ethereum, Smart Contracts
+    #         -   des:    At least 2 years experience as leader position in related field
+    #         -   des:    Advanced experience and knowledge in C++, Python, Java, Solidy
+    #         -   des:    Good understanding about the latest cryptocurrency exchange market
+    #         -   des:    Fluent in English
+
+    # Blockchain Engineer
+    -   job:    
+            department:         Information Technology
+            position:           Blockchain Engineer
+            location:           Saigon, VN
+
+        address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+        description:
+            -   title:  We are seeking an experienced Blockchain Engineer with high enthusiasm in developing ICO smart contract system while ensuring our fast-growing in cryptocurrency market.
+            -   des:    Consult and develop blockchain solutions based on business specifications
+            -   des:    Collaborate with product owners and business to translate business requirements into high-level customer experience requirements
+            -   des:    Broad experience in user research, wire-framing, prototyping, user experience design, user testing and visual design
+            -   des:    Work under Team leader's requirement with the aims of making high-end product
+
+        requirement:
+            -   title:  Must have:
+            -   des:    Experience in one of popular programming languages such as C/C++, Java, Python, Go, JavaScript.
+            -   des:    Good analytical and critical thinking skills
+            -   des:    Good at programming and algorithms
+            -   des:    Good at learning and researching new technology
+            -   title:  Nice to have:
+            -   des:    Good understanding about Ethereum, Bitcoin, Cryptocurrency...
+            -   des:    High enthusiasm in blockchain technology
+            -   des:    Good English communication skills
+
+    # Back end Leader
+    -   job:    
+            department:         Information Technology
+            position:           Back end Leader
+            location:           Saigon, VN
+
+        address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+        description:
+            -   title:  We’re looking for a great leader of Back end Development team who will thrive in our interdisciplinary and collaborative environment and someone who wants to take ownership of their contribution to our organization.
+            -   title:  You will need to identify pending problems, take responsibility to ensure that a solution is found and demonstrate the ability to effectively lead, communicate and work along with members of our company to ensure a great experience for all. While ensuring quality, consistently meeting timelines, and juggling multiple projects.
+            -   des:    Leading, planning the work flows and teams of developers to design and develop applications
+            -   des:    Having abilities in communication and technical documents contributions
+            -   des:    Be assistant of Manager Board in our business concept
+
+        requirement:
+            -   title:  Must have:
+            -   des:    At least 3 years experienced in the same roles or related fields
+            -   des:    Strong in backend system development using Javascript
+            -   des:    Good experience in building multiple target platforms applications
+            -   des:    Strong understanding of: NodeJS, Socket.io, RESTful API, Oauth
+            -   des:    Comfortable with: Linux, MongoDB, My SQL, Caching (Memcached, Redis, Couchbase Server), Message roker (RabbitMQ, ActiveMQ), Building scripts (Webpack, Gulp,...)
+            -   des:    Automatic testing scripts
+            -   des:    Good leadership and training skills
+            -   title:  Nice to have:
+            -   des:    English communication skills
+
+    # QC Leader
+    -   job:    
+            department:         Information Technology
+            position:           QC Leader
+            location:           Saigon, VN
+ 
+        address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+        description:
+            -   title:  We are looking for someone who is passionate about what they do and enjoys working with a team in testing our in-house developed product. Key responsible:
+            -   des:    Design test strategy and test plan
+            -   des:    Lead the team of testers and translators, and assign tasks to team members
+            -   des:    Develop test automation framework for web application
+            -   des:    Ensure high quality output of the test team at all time
+            -   des:    Report, track defects and work closely with others in defect resolution.
+            -   des:    Work closely with Blockchain team lead, Back end and Front end Team lead under CTO's requirements
+
+        requirement:
+            -   title:  Must have:
+            -   des:    3+ years experience as automation QC with solid knowledge in automation framework and design
+            -   des:    1+ year experience as team leader
+            -   des:    Strong manual testing skills well as good understanding of test automation architecture and to implement using script codes
+            -   des:    Have experiences in using some common automation frameworks, eg: Selenium, CodeUI, autoit, ...
+            -   des:    Understand about Ethereum ecosystem, like smart contracts is a big plus
+            -   des:    Knowledge of test environments, tools and infrastructure in an Agile environment
+            -   des:    Strong knowledge of software development standards and quality assurance process
+            -   title:  Nice to have:
+            -   des:    Excellent communication, and good documentation skills
+            -   des:    Written and spoken English are a plus"
+
+    # QC Engineer
+    -   job:    
+            department:         Information Technology
+            position:           QC Engineer
+            location:           Saigon, VN
+
+        address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+        description:
+            -   title:  We are looking for someone who is passionate about what they do and enjoys working with a team in testing our in-house developed product. Key responsible:
+            -   des:    Create/Execute test suite for our web application &amp; decentralized application based on Ethereum
+            -   des:    Able to use test automation frameworks for speed up the test proccess
+            -   des:    Review user requirements and technical specifications
+            -   des:    Report bugs and negotiate resolutions with product team
+
+        requirement:
+            -   title:  Must have:
+            -   des:    3+ years working as a software tester
+            -   des:    1+ year experience as automation tester
+            -   des:    Strong manual testing skills well as good understanding of test automation architecture and to implement using script codes
+            -   des:    Have experiences in using some common automation frameworks, eg: Selenium, CodeUI, autoit, ...
+            -   des:    Strong knowledge of software development standards and quality assurance process
+            -   title:  Nice to have:
+            -   des:    Excellent communication, and good documentation skills
+            -   des:    Written and spoken English are a plus
+            -   des:    Able to code in one or more programming languages
+
+    # # Senior Front end Developer
+    # -   job:    
+    #         department:         Information Technology
+    #         position:           Senior Front end Developer
+    #         location:           Saigon, VN
+
+    #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+    #     description:
+    #         -   des:    Work as a member of our FE team for develop &amp; maintain our website and other sattelite websites
+    #         -   des:    Work on Multiple Dashboards which will involve ReactJS as the main technology
+    #         -   des:    Support other Front-end tasks of the team
+
+    #     requirement:
+    #         -   title:  Must have:
+    #         -   des:    More than 6-month experience with ReactJS
+    #         -   des:    Accustomed to the software development model Agile
+    #         -   des:    More than 3-year experience of HTML/CSS3
+    #         -   des:    Good command of DOM HTML Object and its functions
+    #         -   des:    Experience of CSS Framework (Bootstrap/Zurb)
+    #         -   des:    Skilled at CSS Preprocessor (LESS/SASS)
+    #         -   des:    Knowledge of code patterns: CSS (OOCSS, SMACSS, BEM, ITCSS, ACSS, etc.) and JS Pattern (Constructor, Factory, Prototype, etc.)
+    #         -   des:    Experience of AJAX
+    #         -   des:    Good at problem-solving and debug skills (on major web browsers)
+    #         -   des:    Experience of using frontend Task Runners such as Grunt/Gulp, etc
+    #         -   des:    Good command of source code management such as Git/SVN
+    #         -   title:  Nice to have:
+    #         -   des:    Easy to adapt to current code base as well as build from scratch
+    #         -   des:    Be a team-player
+    #         -   des:    Good English communication
+
+    # # Senior UI/UX Designer
+    # -   job:    
+    #         department:         Information Technology
+    #         position:           Senior UI/UX Designer
+    #         location:           Saigon, VN
+
+    #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+    #     description:
+    #         -   title:  You will be responsible for creating clean, elegant, use-without-manual UI/UX for our websites, including main website, and our front-end for world-first decentralized advertising marketplace platform. People may not know what happens behind the curtain, but they will gain confidence if they're looking into a website that makes them feel comfortable. It's your mission to gain their trust.
+    #         -   des:    Participate in all phases of the development lifecycle, beginning with the gathering of requirements, and project specifications
+    #         -   des:    Develop and maintain functional and appealing responsive web sites, writing clean, well-designed code and using authoring tools, scripting languages and content management tools
+    #         -   des:    Develop, update or implement existing procedures for ongoing web site revision and style guidelines for web site content
+    #         -   des:    Evaluate code to ensure that it is valid, is properly structured, meets industry standards and is compatible with browsers, devices, or operating systems and follow all agency and government guidelines and rules in web development
+    #         -   des:    Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction
+    #         -   des:    Train and Develop on new technologies
+
+    #     requirement:
+    #         -   title:  Must have:
+    #         -   des:    2 years experience in UX / UI design in developing cross-browser mobile web apps &amp; apps for iOS / Android phones and tablets
+    #         -   des:    Experience working with UX / UI design in complex environments - with wireframing, prototyping, mockup design experience
+    #         -   des:    Proficiency / proficiency with Adobe Creative Suite as well as Illustrator, Skecth, Invision (3 essential) Zeplin, UXPin, Photoshop
+    #         -   des:    Must know how to use Git
+    #         -   title:  Nice to have:
+    #         -   des:    Creative idea with problem-solving thinking
+    #         -   des:    Experience working in a fast growing / scrum process
+    #         -   des:    Written and spoken English are a plus
+    #         -   des:    Leadership is a big plus
+
+    # Marketing Planner
+    -   job:    
+            department:         Marketing
+            position:           Marketing Planner
+            location:           Saigon, VN
+
+        address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+        description:
+            -   title:  Our Marketing Planner will focus on supporting Marketing Department activities well as fast growth business of Bigbom ECO.
+            -   des:    Plan, determine, and coordinate company's marketing programs and policies based on products and marketing campaigns
+            -   des:    Create new and effective marketing activities that's suitable to company's business
+            -   des:    Analyze the pricing strategies in order to maximize company's profit while ensuring campaign's purpose
+            -   des:    Identify and solve potential problems
+            -   des:    Assistant to Marketing leader and coorporate with the team to maximize Marketing's result"
+
+        requirement:
+            -   title:  Must have:
+            -   des:    Bachelor's Degree in Marketing field or relating
+            -   des:    Minimum 2-3 years experience in marketing field
+            -   des:    Extensive experience in planning, managing, analyzing and delivering marketing ideas and activities
+            -   des:    Good abilities in communication and explanation
+            -   des:    Fluent in English communications
+            -   title:  Nice to have:
+            -   des:    Have gained serveral years of experience in marketing research
+            -   des:    Good understanding about Fintech, blockchain
+
+    # # Content Writer
+    # -   job:    
+    #         department:         Marketing
+    #         position:           Content Writer
+    #         location:           Saigon, VN
+
+    #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+    #     description:
+    #         -   title:  Our Content Writer will focus on supporting Marketing Department activities well as fast growth business of Bigbom ECO.
+    #         -   des:    Plan, determine, and create PR posts for our website, fanpage, social network...with amazing ideas
+    #         -   des:    Manage our community channels (Facebook, Telegram, Twitter)
+    #         -   des:    Discuss content ideas with direct leader or manager
+    #         -   des:    Coorporate with team members to archieve the highest result
+    #         -   des:    Support other tasks based on Leader/Manager requirement
+
+    #     requirement:
+    #         -   title:  Must have:
+    #         -   des:    Bachelor's Degree in Marketing field or relating
+    #         -   des:    At least 1 years experience as content writer/copywriting
+    #         -   des:    Good senses of writing with attractive ideas
+    #         -   des:    Good abilities in communication and explanation
+    #         -   des:    Fluent in English communications
+    #         -   title:  Nice to have:
+    #         -   des:    Have experience in digital marketing
+    #         -   des:    Good understanding about Fintech, blockchain
+
+    # Digital Content Marketing
+    -   job:    
+            department:         Marketing
+            position:           Digital Content Marketing
+            location:           Saigon, VN
+
+        address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+        description:   
+            -   des:    Be incharge of content creating based on company's business and leader's requirement
+            -   des:    Manage company's social networks: Telegram, Medium, Twitter, Facebook...
+            -   des:    Support tasks relating to Digital Marketing function
+            -   des:    Follow and work with agencies, partners...and process based on leader's requirement
+            -   des:    Participate in other marketing activities
+
+        requirement:
+            -   title:  Must have:
+            -   des:    Bachelor's Degree in Marketing field or relating
+            -   des:    At least 1 years experience as Digital marketing or Content Writing
+            -   des:    Good abilities in communication and explanation
+            -   des:    Fluent in English (Writing and Reading is a must)
+            -   title:  Nice to have:
+            -   des:    Have experience in digital marketing
+            -   des:    Good understanding about Fintech, blockchain
+
+    # Graphic Design
+    -   job:    
+            department:         Marketing
+            position:           Graphic Design
+            location:           Saigon, VN
+
+        address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+        description:   
+            -   des:    Conceptualize based on design briefs, execute the work, be it illustration, 2D or 3D design
+            -   des:    Produce high-quality motion graphics, titles and animations
+            -   des:    Design icons, illustrations, text layout and styling for projects and serve as a creative partner to our creative and design staff
+            -   des:    Faithfully and creatively represent the brands in all content
+
+        requirement:
+            -   title:  Must have:
+            -   des:    Bachelor's Degree in Marketing field or relating
+            -   des:    At least 1 years experience as Graphic Design
+            -   des:    Good abilities in communication and explanation
+            -   title:  Nice to have:
+            -   des:    Have experience in digital marketing
+            -   des:    Good understanding about Fintech, blockchain
+            -   des:    Good at English communication
+
+    # # CEO Assistant
+    # -   job:    
+    #         department:         General
+    #         position:           CEO Assistant
+    #         location:           Saigon, VN
+
+    #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
+
+    #     description:   
+    #         -   title:  Our CEO Assistant will be in charge of these following tasks:
+    #         -   des:    Support CEO in tasks checking, schedule planning
+    #         -   des:    Participate in meetings with customers and investors
+    #         -   des:    Be ready to join oversea business trips
+    #         -   des:    Support other related departments
+
+    #     requirement:
+    #         -   des:    Fluent in English: Both verbal and listening
+    #         -   des:    Having experience in related fields
+    #         -   des:    Good at communications skills, time management, be responsible
+    #         -   des:    Be ready to join oversea business trips
