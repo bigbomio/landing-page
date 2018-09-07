@@ -19,7 +19,7 @@ positions:
     # -   job:    
     #         department:         Information Technology
     #         position:           Blockchain Lead
-    #         location:           Saigon, VN
+    #         location:           Ho Chi Minh, VN
 
     #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -42,7 +42,7 @@ positions:
     -   job:    
             department:         Information Technology
             position:           Blockchain Engineer
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
 
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -68,7 +68,7 @@ positions:
     -   job:    
             department:         Information Technology
             position:           Back end Leader
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
 
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -95,7 +95,7 @@ positions:
     -   job:    
             department:         Information Technology
             position:           QC Leader
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
  
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -125,7 +125,7 @@ positions:
     -   job:    
             department:         Information Technology
             position:           QC Engineer
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
 
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -152,7 +152,7 @@ positions:
     # -   job:    
     #         department:         Information Technology
     #         position:           Senior Front end Developer
-    #         location:           Saigon, VN
+    #         location:           Ho Chi Minh, VN
 
     #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -183,7 +183,7 @@ positions:
     -   job:    
             department:         Information Technology
             position:           Senior UI/UX Designer
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
 
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -212,7 +212,7 @@ positions:
     -   job:    
             department:         Marketing
             position:           Marketing Planner
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
 
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -239,7 +239,7 @@ positions:
     # -   job:    
     #         department:         Marketing
     #         position:           Content Writer
-    #         location:           Saigon, VN
+    #         location:           Ho Chi Minh, VN
 
     #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -266,7 +266,7 @@ positions:
     -   job:    
             department:         Marketing
             position:           Digital Content Marketing
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
 
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -291,7 +291,7 @@ positions:
     -   job:    
             department:         Marketing
             position:           Graphic Design
-            location:           Saigon, VN
+            location:           Ho Chi Minh, VN
 
         address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
@@ -315,7 +315,7 @@ positions:
     # -   job:    
     #         department:         General
     #         position:           CEO Assistant
-    #         location:           Saigon, VN
+    #         location:           Ho Chi Minh, VN
 
     #     address:                6th Floor, 137 Le Quang Dinh, Ward 14, Binh Thanh Dist, Hochiminh
 
