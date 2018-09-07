@@ -4,12 +4,11 @@ info_common:
     probation_salary:       100% monthly salary
     probation_time:         2 months
     working_hour:           9am-6pm (Noon: 90 mins)
-    holiday:                Every Saturday & Sunday
+    holiday:                National Holidays
 
 benefit_common:
-    insurance:              Social insurance, health insurance will be applied legall Annual company trip, weekly teambuilding activities
-    activity:               Annual company trip, weekly teambuilding activities
-    bonus_extra:            Bonus with ICO success
+    insurance:              Social insurance, health insurance will be applied legally
+    activity:               Annual company trip, weekly team building activities
     bonus_year:             13th monthly salary
     business_trip:          Oversea business trips
     enviroment:             Young and dynamics working environment with open working space
