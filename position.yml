@@ -1,9 +1,9 @@
 info_common:
     salary:                 You'll love
-    salary_review:          Once a year (October)
+    salary_review:          Once a year
     probation_salary:       100% monthly salary
     probation_time:         2 months
-    working_hour:           9am-6pm (Noon: 90 mins)
+    working_hour:           9am-6pm (Noon: 60 mins)
     holiday:                National Holidays
 
 benefit_common:
